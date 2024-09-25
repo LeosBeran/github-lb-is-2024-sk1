@@ -3,4 +3,4 @@
 ## toto je změna provedená na lokále
 
 Leos Beran
-v rámci předmětu IS
+v rámci předmětu is
