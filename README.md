@@ -4,4 +4,4 @@
 
 Leos Beran
 v rámci předmětu is
-zkouška doma bbb
+zkouška domácí notebook
