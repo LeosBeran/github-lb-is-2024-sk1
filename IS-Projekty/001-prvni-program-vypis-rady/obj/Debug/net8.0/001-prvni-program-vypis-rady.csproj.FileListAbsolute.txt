@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\obj\Debug\net8.0\001-prvni-program-vypis-rady.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\obj\Debug\net8.0\001-prvni-program-vypis-rady.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\obj\Debug\net8.0\001-prvni-program-vypis-rady.AssemblyInfo.cs
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\obj\Debug\net8.0\001-prvni-program-vypis-rady.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\obj\Debug\net8.0\001-prvni-program-vypis-rady.sourcelink.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\bin\Debug\net8.0\001-prvni-program-vypis-rady.exe
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\bin\Debug\net8.0\001-prvni-program-vypis-rady.deps.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\bin\Debug\net8.0\001-prvni-program-vypis-rady.runtimeconfig.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\bin\Debug\net8.0\001-prvni-program-vypis-rady.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\bin\Debug\net8.0\001-prvni-program-vypis-rady.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\obj\Debug\net8.0\001-prvni-program-vypis-rady.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\obj\Debug\net8.0\refint\001-prvni-program-vypis-rady.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\obj\Debug\net8.0\001-prvni-program-vypis-rady.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\obj\Debug\net8.0\001-prvni-program-vypis-rady.genruntimeconfig.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\001-prvni-program-vypis-rady\obj\Debug\net8.0\ref\001-prvni-program-vypis-rady.dll
