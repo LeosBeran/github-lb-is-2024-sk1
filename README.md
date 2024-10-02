@@ -5,3 +5,4 @@
 Leos Beran
 v rámci předmětu is
 zkouška domácí notebook
+Test z lokálu 2024-10-02, 9:20 
