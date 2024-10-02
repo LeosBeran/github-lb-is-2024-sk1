@@ -13,3 +13,5 @@ Test z lokálu 2024-10-02, 9:20
 Test z GitHubu; 2024-10-02, 9:35 (Leoš Beran)
 
 Test samostatný; 2024-10-02. 9:40
+
+Test samostatný z GitHubu; 2024-10-02, 9:42
