@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "003a - Obdelnik/1.0.0": {
+        "runtime": {
+          "003a - Obdelnik.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "003a - Obdelnik/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

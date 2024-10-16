@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\003a - Obdelnik\\003a - Obdelnik.csproj": {}
+    "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\003a - Obdelnik\\003a - Obdelnik.csproj": {}
   },
   "projects": {
-    "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\003a - Obdelnik\\003a - Obdelnik.csproj": {
+    "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\003a - Obdelnik\\003a - Obdelnik.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\003a - Obdelnik\\003a - Obdelnik.csproj",
+        "projectUniqueName": "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\003a - Obdelnik\\003a - Obdelnik.csproj",
         "projectName": "003a - Obdelnik",
-        "projectPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\003a - Obdelnik\\003a - Obdelnik.csproj",
+        "projectPath": "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\003a - Obdelnik\\003a - Obdelnik.csproj",
         "packagesPath": "C:\\Users\\ZŠ Beranová\\.nuget\\packages\\",
-        "outputPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\003a - Obdelnik\\obj\\",
+        "outputPath": "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\003a - Obdelnik\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ZŠ Beranová\\AppData\\Roaming\\NuGet\\NuGet.Config"
