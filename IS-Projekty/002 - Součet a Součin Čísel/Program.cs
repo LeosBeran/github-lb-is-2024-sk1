@@ -24,48 +24,30 @@ class Program { static void Main() {
             Console.Write("Nezadali jste celé číslo. Zadejte první číslo řady znovu: ");
         }
 
+
+ int suma = 0;
+            int multi = 1;
+            int numberBackup = number;
+            int digit;
+            if(number<0)
+                number = - number;
+            while(number >= 10) {
+                digit = number % 10;
+                number = (number-digit)/10;
+                Console.WriteLine("Digit = {0}", digit);
+                suma = suma + digit;
+                multi = multi * digit;
+            }
+            Console.WriteLine("Digit = {0}", number);
+            // musíme přičíst ještě poslední cifru
+            suma = suma + number;
+            // musíme ještě donásobit poslední cifru
+            multi = multi * number;
+            
+            Console.WriteLine();
+            Console.WriteLine("\n\n\nSoučet cifer čísla {0} je {1}", numberBackup, suma);
+            Console.WriteLine("\nSoučin cifer čísla {0} je {1}", numberBackup, multi);
         
-        /* možné řešení
-        int suma = 0;
-        multi =
-        int numberBackup = number;
-        int digit;
-
-        while (number >= 10) {
-            digit = number % 10;
-            number = (number-digit)/10;
-            Console.WriteLine("Digit = {0}" , digit);
-            suma = suma + digit;
-            multi = multi * digit;
-        }
-        Console.WriteLine("Digit = {0}" , digit);
-       
-        // musíme přičíst ještě poslední cifru
-        suma = suma + number;
-        multi = multi * number;
-
-        Console.WriteLine();
-        Console.WriteLine("\n\n\Součin cifer čísla {0} je {1}", numberBackup, multi) ;
-
-        */
-
-        int suma = 0;
-        int numberBackup = number;
-        int digit;
-
-        while (number >= 10) {
-            digit = number % 10;
-            number = (number-digit)/10;
-            Console.WriteLine("Digit = {0}" , digit);
-            suma = suma + digit;
-        }
-        Console.WriteLine("Digit = {0}" , number);
-       
-        // musíme přičíst ještě poslední cifru
-        suma = suma + number;
-
-        Console.WriteLine();
-        Console.WriteLine("\n\n\nSoučet cifer čísla {0} je {1}", numberBackup, suma) ;
 
 
 
