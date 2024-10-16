@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj": {}
+    "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\IS-Projekty.csproj": {}
   },
   "projects": {
-    "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj": {
+    "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\IS-Projekty.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj",
-        "projectName": "001-prvni-program-vypis-rady",
-        "projectPath": "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj",
+        "projectUniqueName": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\IS-Projekty.csproj",
+        "projectName": "IS-Projekty",
+        "projectPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\IS-Projekty.csproj",
         "packagesPath": "C:\\Users\\ZŠ Beranová\\.nuget\\packages\\",
-        "outputPath": "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\obj\\",
+        "outputPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ZŠ Beranová\\AppData\\Roaming\\NuGet\\NuGet.Config"
