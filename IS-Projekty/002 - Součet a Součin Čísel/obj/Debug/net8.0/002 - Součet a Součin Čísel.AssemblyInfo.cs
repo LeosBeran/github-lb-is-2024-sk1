@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("002 - Součet a Součin Čísel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e80ddc3bca385c4292f6d15ba173264ad5628e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7567e2870bd5ecc3ad8488a536bac6ecf532ce43")]
 [assembly: System.Reflection.AssemblyProductAttribute("002 - Součet a Součin Čísel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("002 - Součet a Součin Čísel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

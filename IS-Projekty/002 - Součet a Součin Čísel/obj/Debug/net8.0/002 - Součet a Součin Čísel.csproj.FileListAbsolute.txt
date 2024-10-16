@@ -3,3 +3,13 @@ c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002 - Součet a Součin Čísel
 c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002 - Součet a Součin Čísel\obj\Debug\net8.0\002 - Součet a Součin Čísel.AssemblyInfo.cs
 c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002 - Součet a Součin Čísel\obj\Debug\net8.0\002 - Součet a Součin Čísel.csproj.CoreCompileInputs.cache
 c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002 - Součet a Součin Čísel\obj\Debug\net8.0\002 - Součet a Součin Čísel.sourcelink.json
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002 - Součet a Součin Čísel\bin\Debug\net8.0\002 - Součet a Součin Čísel.exe
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002 - Součet a Součin Čísel\bin\Debug\net8.0\002 - Součet a Součin Čísel.deps.json
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002 - Součet a Součin Čísel\bin\Debug\net8.0\002 - Součet a Součin Čísel.runtimeconfig.json
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002 - Součet a Součin Čísel\bin\Debug\net8.0\002 - Součet a Součin Čísel.dll
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002 - Součet a Součin Čísel\bin\Debug\net8.0\002 - Součet a Součin Čísel.pdb
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002 - Součet a Součin Čísel\obj\Debug\net8.0\002 - Součet a Součin Čísel.dll
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002 - Součet a Součin Čísel\obj\Debug\net8.0\refint\002 - Součet a Součin Čísel.dll
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002 - Součet a Součin Čísel\obj\Debug\net8.0\002 - Součet a Součin Čísel.pdb
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002 - Součet a Součin Čísel\obj\Debug\net8.0\002 - Součet a Součin Čísel.genruntimeconfig.cache
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002 - Součet a Součin Čísel\obj\Debug\net8.0\ref\002 - Součet a Součin Čísel.dll

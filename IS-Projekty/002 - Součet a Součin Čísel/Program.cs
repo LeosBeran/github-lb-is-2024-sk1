@@ -59,7 +59,7 @@ class Program { static void Main() {
             Console.WriteLine("Digit = {0}" , digit);
             suma = suma + digit;
         }
-        Console.WriteLine("Digit = {0}" , digit);
+        Console.WriteLine("Digit = {0}" , number);
        
         // musíme přičíst ještě poslední cifru
         suma = suma + number;
