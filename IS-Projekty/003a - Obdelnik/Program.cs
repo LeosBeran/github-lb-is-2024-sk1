@@ -6,7 +6,7 @@ string again = "a";
             Console.WriteLine("****************************");
             Console.WriteLine("***** Obdélník *****");
             Console.WriteLine("****************************");
-            Console.WriteLine("******* Tomáš Žižka ********");
+            Console.WriteLine("******* Leoš Beran ********");
             Console.WriteLine("****************************");
             Console.WriteLine();
             Console.Write("Zadejte šířku obrazce (celé číslo): ");

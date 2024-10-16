@@ -1,0 +1,15 @@
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003b - Pravoúhlý trojúhelník\bin\Debug\net8.0\003b - Pravoúhlý trojúhelník.exe
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003b - Pravoúhlý trojúhelník\bin\Debug\net8.0\003b - Pravoúhlý trojúhelník.deps.json
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003b - Pravoúhlý trojúhelník\bin\Debug\net8.0\003b - Pravoúhlý trojúhelník.runtimeconfig.json
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003b - Pravoúhlý trojúhelník\bin\Debug\net8.0\003b - Pravoúhlý trojúhelník.dll
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003b - Pravoúhlý trojúhelník\bin\Debug\net8.0\003b - Pravoúhlý trojúhelník.pdb
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003b - Pravoúhlý trojúhelník\obj\Debug\net8.0\003b - Pravoúhlý trojúhelník.GeneratedMSBuildEditorConfig.editorconfig
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003b - Pravoúhlý trojúhelník\obj\Debug\net8.0\003b - Pravoúhlý trojúhelník.AssemblyInfoInputs.cache
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003b - Pravoúhlý trojúhelník\obj\Debug\net8.0\003b - Pravoúhlý trojúhelník.AssemblyInfo.cs
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003b - Pravoúhlý trojúhelník\obj\Debug\net8.0\003b - Pravoúhlý trojúhelník.csproj.CoreCompileInputs.cache
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003b - Pravoúhlý trojúhelník\obj\Debug\net8.0\003b - Pravoúhlý trojúhelník.sourcelink.json
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003b - Pravoúhlý trojúhelník\obj\Debug\net8.0\003b - Pravoúhlý trojúhelník.dll
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003b - Pravoúhlý trojúhelník\obj\Debug\net8.0\refint\003b - Pravoúhlý trojúhelník.dll
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003b - Pravoúhlý trojúhelník\obj\Debug\net8.0\003b - Pravoúhlý trojúhelník.pdb
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003b - Pravoúhlý trojúhelník\obj\Debug\net8.0\003b - Pravoúhlý trojúhelník.genruntimeconfig.cache
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003b - Pravoúhlý trojúhelník\obj\Debug\net8.0\ref\003b - Pravoúhlý trojúhelník.dll
