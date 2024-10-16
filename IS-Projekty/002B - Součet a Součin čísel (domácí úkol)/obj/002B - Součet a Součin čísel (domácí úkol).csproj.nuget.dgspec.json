@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\002B - Součet a Součin čísel (domácí úkol)\\002B - Součet a Součin čísel (domácí úkol).csproj": {}
+    "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\002B - Součet a Součin čísel (domácí úkol)\\002B - Součet a Součin čísel (domácí úkol).csproj": {}
   },
   "projects": {
-    "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\002B - Součet a Součin čísel (domácí úkol)\\002B - Součet a Součin čísel (domácí úkol).csproj": {
+    "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\002B - Součet a Součin čísel (domácí úkol)\\002B - Součet a Součin čísel (domácí úkol).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\002B - Součet a Součin čísel (domácí úkol)\\002B - Součet a Součin čísel (domácí úkol).csproj",
+        "projectUniqueName": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\002B - Součet a Součin čísel (domácí úkol)\\002B - Součet a Součin čísel (domácí úkol).csproj",
         "projectName": "002B - Součet a Součin čísel (domácí úkol)",
-        "projectPath": "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\002B - Součet a Součin čísel (domácí úkol)\\002B - Součet a Součin čísel (domácí úkol).csproj",
+        "projectPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\002B - Součet a Součin čísel (domácí úkol)\\002B - Součet a Součin čísel (domácí úkol).csproj",
         "packagesPath": "C:\\Users\\ZŠ Beranová\\.nuget\\packages\\",
-        "outputPath": "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\002B - Součet a Součin čísel (domácí úkol)\\obj\\",
+        "outputPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\002B - Součet a Součin čísel (domácí úkol)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ZŠ Beranová\\AppData\\Roaming\\NuGet\\NuGet.Config"

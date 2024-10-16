@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("003b - Pravoúhlý trojúhelník")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1709cdc720a12fc4746a0c3f8f2732a22e8fe9c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b09997d900b9f6ae68de04012bbb97ca800d8d12")]
 [assembly: System.Reflection.AssemblyProductAttribute("003b - Pravoúhlý trojúhelník")]
 [assembly: System.Reflection.AssemblyTitleAttribute("003b - Pravoúhlý trojúhelník")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

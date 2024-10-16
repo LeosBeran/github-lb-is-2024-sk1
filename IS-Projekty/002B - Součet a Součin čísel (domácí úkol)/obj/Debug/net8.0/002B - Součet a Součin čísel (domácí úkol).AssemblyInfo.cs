@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("002B - Součet a Součin čísel (domácí úkol)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c8ec199f8687577ec6c267c75354379f3065f6c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b09997d900b9f6ae68de04012bbb97ca800d8d12")]
 [assembly: System.Reflection.AssemblyProductAttribute("002B - Součet a Součin čísel (domácí úkol)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("002B - Součet a Součin čísel (domácí úkol)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
