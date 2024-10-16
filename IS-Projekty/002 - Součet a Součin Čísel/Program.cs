@@ -25,7 +25,7 @@ class Program { static void Main() {
         }
 
 
- int suma = 0;
+            int suma = 0;
             int multi = 1;
             int numberBackup = number;
             int digit;
@@ -39,9 +39,9 @@ class Program { static void Main() {
                 multi = multi * digit;
             }
             Console.WriteLine("Digit = {0}", number);
-            // musíme přičíst ještě poslední cifru
+
             suma = suma + number;
-            // musíme ještě donásobit poslední cifru
+
             multi = multi * number;
             
             Console.WriteLine();
