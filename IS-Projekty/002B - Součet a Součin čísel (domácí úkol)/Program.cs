@@ -26,8 +26,7 @@ class Program {
 
             // Pokud je číslo záporné, převedeme jej na kladné
             if (number < 0) {
-                number = -number;
-            }
+                number = -number; }
 
             // Alternativní řešení: převedení čísla na řetězec
             string numberString = number.ToString();
