@@ -1,0 +1,15 @@
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002B - Součet a Součin čísel (domácí úkol)\bin\Debug\net8.0\002B - Součet a Součin čísel (domácí úkol).exe
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002B - Součet a Součin čísel (domácí úkol)\bin\Debug\net8.0\002B - Součet a Součin čísel (domácí úkol).deps.json
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002B - Součet a Součin čísel (domácí úkol)\bin\Debug\net8.0\002B - Součet a Součin čísel (domácí úkol).runtimeconfig.json
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002B - Součet a Součin čísel (domácí úkol)\bin\Debug\net8.0\002B - Součet a Součin čísel (domácí úkol).dll
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002B - Součet a Součin čísel (domácí úkol)\bin\Debug\net8.0\002B - Součet a Součin čísel (domácí úkol).pdb
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002B - Součet a Součin čísel (domácí úkol)\obj\Debug\net8.0\002B - Součet a Součin čísel (domácí úkol).GeneratedMSBuildEditorConfig.editorconfig
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002B - Součet a Součin čísel (domácí úkol)\obj\Debug\net8.0\002B - Součet a Součin čísel (domácí úkol).AssemblyInfoInputs.cache
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002B - Součet a Součin čísel (domácí úkol)\obj\Debug\net8.0\002B - Součet a Součin čísel (domácí úkol).AssemblyInfo.cs
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002B - Součet a Součin čísel (domácí úkol)\obj\Debug\net8.0\002B - Součet a Součin čísel (domácí úkol).csproj.CoreCompileInputs.cache
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002B - Součet a Součin čísel (domácí úkol)\obj\Debug\net8.0\002B - Součet a Součin čísel (domácí úkol).sourcelink.json
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002B - Součet a Součin čísel (domácí úkol)\obj\Debug\net8.0\002B - Součet a Součin čísel (domácí úkol).dll
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002B - Součet a Součin čísel (domácí úkol)\obj\Debug\net8.0\refint\002B - Součet a Součin čísel (domácí úkol).dll
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002B - Součet a Součin čísel (domácí úkol)\obj\Debug\net8.0\002B - Součet a Součin čísel (domácí úkol).pdb
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002B - Součet a Součin čísel (domácí úkol)\obj\Debug\net8.0\002B - Součet a Součin čísel (domácí úkol).genruntimeconfig.cache
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002B - Součet a Součin čísel (domácí úkol)\obj\Debug\net8.0\ref\002B - Součet a Součin čísel (domácí úkol).dll
