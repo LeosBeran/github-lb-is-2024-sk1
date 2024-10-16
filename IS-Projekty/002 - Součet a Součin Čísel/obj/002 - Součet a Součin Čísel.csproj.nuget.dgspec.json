@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\IS-Projekty.csproj": {}
+    "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\002 - Součet a Součin Čísel\\002 - Součet a Součin Čísel.csproj": {}
   },
   "projects": {
-    "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\IS-Projekty.csproj": {
+    "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\002 - Součet a Součin Čísel\\002 - Součet a Součin Čísel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\IS-Projekty.csproj",
-        "projectName": "IS-Projekty",
-        "projectPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\IS-Projekty.csproj",
+        "projectUniqueName": "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\002 - Součet a Součin Čísel\\002 - Součet a Součin Čísel.csproj",
+        "projectName": "002 - Součet a Součin Čísel",
+        "projectPath": "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\002 - Součet a Součin Čísel\\002 - Součet a Součin Čísel.csproj",
         "packagesPath": "C:\\Users\\ZŠ Beranová\\.nuget\\packages\\",
-        "outputPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\obj\\",
+        "outputPath": "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\002 - Součet a Součin Čísel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ZŠ Beranová\\AppData\\Roaming\\NuGet\\NuGet.Config"

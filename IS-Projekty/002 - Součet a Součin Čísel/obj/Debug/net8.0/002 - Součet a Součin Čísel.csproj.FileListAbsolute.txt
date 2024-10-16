@@ -1,0 +1,5 @@
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002 - Součet a Součin Čísel\obj\Debug\net8.0\002 - Součet a Součin Čísel.GeneratedMSBuildEditorConfig.editorconfig
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002 - Součet a Součin Čísel\obj\Debug\net8.0\002 - Součet a Součin Čísel.AssemblyInfoInputs.cache
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002 - Součet a Součin Čísel\obj\Debug\net8.0\002 - Součet a Součin Čísel.AssemblyInfo.cs
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002 - Součet a Součin Čísel\obj\Debug\net8.0\002 - Součet a Součin Čísel.csproj.CoreCompileInputs.cache
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\002 - Součet a Součin Čísel\obj\Debug\net8.0\002 - Součet a Součin Čísel.sourcelink.json
