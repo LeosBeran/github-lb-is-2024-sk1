@@ -1,4 +1,4 @@
-﻿﻿using System.Security.Authentication.ExtendedProtection;
+﻿﻿﻿using System.Security.Authentication.ExtendedProtection;
 
 string again = "a";
         
@@ -7,7 +7,7 @@ string again = "a";
             Console.WriteLine("*******************************************");
             Console.WriteLine("***** Generátor pseudonáhodných čísel *****");
             Console.WriteLine("*******************************************");
-            Console.WriteLine("************* Leoš Beran *****************");
+            Console.WriteLine("************* Leoš Beran  *****************");
             Console.WriteLine("*******************************************");
             Console.WriteLine();
 
@@ -44,6 +44,8 @@ string again = "a";
             int kladna = 0;
             int zaporna = 0;
             int nuly = 0;
+            int suda = 0;
+            int licha = 0;
 
             Console.WriteLine("\n\nNáhodná čísla:");
             for(int i=0; i<n; i++) {
@@ -57,21 +59,28 @@ string again = "a";
                 // if(myArray[i]==0)
                 //     nuly++;
 
+                // kladná, záporná, nuly
                 if(myArray[i]>0)
                     kladna++;
                 else if(myArray[i]<0)
                     zaporna++;
                 else
-                    nuly++;              
+                    nuly++;
+
+                // sudá, lichá
+                if(myArray[i] % 2 == 0)
+                    suda++;
+                else
+                    licha++;        
 
             }
-
 
             Console.WriteLine();
             Console.WriteLine("\n\n\nPočet kladných čísel: {0}", kladna);    
             Console.WriteLine("Počet záporných čísel: {0}", zaporna);    
             Console.WriteLine("Počet nul: {0}", nuly);    
-
+            Console.WriteLine("\n\nPočet sudých čísel: {0}", suda);    
+            Console.WriteLine("\n\nPočet lichých čísel: {0}", licha);    
             Console.WriteLine();
             Console.WriteLine("Pro opakování programu stiskněte klávesu A");
             again = Console.ReadLine();
