@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\004 - generator\\004 - generator.csproj",
-      "projectName": "004 - generator",
-      "projectPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\004 - generator\\004 - generator.csproj",
+      "projectUniqueName": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\004 - generator\\005 - Test.csproj",
+      "projectName": "005 - Test",
+      "projectPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\004 - generator\\005 - Test.csproj",
       "packagesPath": "C:\\Users\\ZŠ Beranová\\.nuget\\packages\\",
       "outputPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\004 - generator\\obj\\",
       "projectStyle": "PackageReference",

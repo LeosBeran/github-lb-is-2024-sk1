@@ -9,7 +9,7 @@ class Program { static void Main() {
     while(again == "a") {
         Console.Clear();
         Console.WriteLine("***************");
-        Console.WriteLine("*** Součet a součin čísel ***");
+        Console.WriteLine("*** Generátor pseudonáhodných ***");
         Console.WriteLine("***************");
         Console.WriteLine("**** Leoš Beran ****");
         Console.WriteLine("***************");

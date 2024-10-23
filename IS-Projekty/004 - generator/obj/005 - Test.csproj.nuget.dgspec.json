@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\004 - generator\\004 - generator.csproj": {}
+    "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\004 - generator\\005 - Test.csproj": {}
   },
   "projects": {
-    "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\004 - generator\\004 - generator.csproj": {
+    "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\004 - generator\\005 - Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\004 - generator\\004 - generator.csproj",
-        "projectName": "004 - generator",
-        "projectPath": "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\004 - generator\\004 - generator.csproj",
+        "projectUniqueName": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\004 - generator\\005 - Test.csproj",
+        "projectName": "005 - Test",
+        "projectPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\004 - generator\\005 - Test.csproj",
         "packagesPath": "C:\\Users\\ZŠ Beranová\\.nuget\\packages\\",
-        "outputPath": "c:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\004 - generator\\obj\\",
+        "outputPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\004 - generator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ZŠ Beranová\\AppData\\Roaming\\NuGet\\NuGet.Config"
