@@ -1,0 +1,15 @@
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\004 - generator\bin\Debug\net8.0\004 - generator.exe
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\004 - generator\bin\Debug\net8.0\004 - generator.deps.json
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\004 - generator\bin\Debug\net8.0\004 - generator.runtimeconfig.json
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\004 - generator\bin\Debug\net8.0\004 - generator.dll
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\004 - generator\bin\Debug\net8.0\004 - generator.pdb
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\004 - generator\obj\Debug\net8.0\004 - generator.GeneratedMSBuildEditorConfig.editorconfig
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\004 - generator\obj\Debug\net8.0\004 - generator.AssemblyInfoInputs.cache
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\004 - generator\obj\Debug\net8.0\004 - generator.AssemblyInfo.cs
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\004 - generator\obj\Debug\net8.0\004 - generator.csproj.CoreCompileInputs.cache
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\004 - generator\obj\Debug\net8.0\004 - generator.sourcelink.json
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\004 - generator\obj\Debug\net8.0\004 - generator.dll
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\004 - generator\obj\Debug\net8.0\refint\004 - generator.dll
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\004 - generator\obj\Debug\net8.0\004 - generator.pdb
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\004 - generator\obj\Debug\net8.0\004 - generator.genruntimeconfig.cache
+c:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\004 - generator\obj\Debug\net8.0\ref\004 - generator.dll
