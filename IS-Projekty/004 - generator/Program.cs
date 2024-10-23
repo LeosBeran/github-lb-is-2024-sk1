@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Data;
+using System.Net;
 
 class Program { static void Main() {
 
@@ -38,6 +40,25 @@ class Program { static void Main() {
         Console.WriteLine("Počet čísel: {0}; dolní mez: {1}, horní mez: {2}", n, dm, hm);
         Console.WriteLine("===============================");
         Console.WriteLine();
+
+        //deklarace pole
+        int[] myArray = new int[n];
+
+        Random randomNumber = new Random();
+
+        Console.WriteLine("\n\nNáhodná čísla:");
+        for(int i=0; i<=n; i++) {
+            myArray[i] = randomNumber.Next(dm, hm);
+            Console.Write("{0}; ", myArray[i]);
+        }
+
+
+
+
+
+
+
+
 
 
 
