@@ -15,8 +15,6 @@ string again = "a";
                 Console.Write("Nezadali jste celé číslo. Zadejte znovu šířku: ");
             }
             Console.Write("Zadejte výšku obrazce (celé číslo): ");
-            int x;
-            Console.Write(int.TryParse("10", out x));
             int height;
             while(!int.TryParse(Console.ReadLine(), out height)) {
                 Console.Write("Nezadali jste celé číslo. Zadejte znovu výšku: ");
@@ -30,11 +28,28 @@ string again = "a";
             //     j++;
             // }
             for(int i=1; i<= height; i++) {
-                for(int j=1; j<= width; j++) {
-                    Console.Write("* ");
+                for(int j=1; j<= width; j++)
+
+                 { 
+                    bool jeIckoSude = i%2==0;
+                    bool jeJeckoSude = j%2==0;
+
+                    if(!jeIckoSude && jeJeckoSude){
+                      Console.Write("*");
                     
                     // zpoždění
                     System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(50));
+                    }
+                     else if(jeIckoSude && !jeJeckoSude){
+                      Console.Write("*");
+                    System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(50));
+                    }
+
+                    else{
+                      Console.Write("  ");
+                    }
+                
+
                 }
                 Console.WriteLine();
             }
