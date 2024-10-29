@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\003c - Obrazec č.14\\003 - obrazce.csproj": {}
+    "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\003c - Obrazec č.12\\003 - obrazce.csproj": {}
   },
   "projects": {
-    "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\003c - Obrazec č.14\\003 - obrazce.csproj": {
+    "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\003c - Obrazec č.12\\003 - obrazce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\003c - Obrazec č.14\\003 - obrazce.csproj",
+        "projectUniqueName": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\003c - Obrazec č.12\\003 - obrazce.csproj",
         "projectName": "003 - obrazce",
-        "projectPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\003c - Obrazec č.14\\003 - obrazce.csproj",
+        "projectPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\003c - Obrazec č.12\\003 - obrazce.csproj",
         "packagesPath": "C:\\Users\\ZŠ Beranová\\.nuget\\packages\\",
-        "outputPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\003c - Obrazec č.14\\obj\\",
+        "outputPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\003c - Obrazec č.12\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ZŠ Beranová\\AppData\\Roaming\\NuGet\\NuGet.Config"
