@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003e - obrazec č.17\bin\Debug\net8.0\003e - obrazec č.17.exe
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003e - obrazec č.17\bin\Debug\net8.0\003e - obrazec č.17.deps.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003e - obrazec č.17\bin\Debug\net8.0\003e - obrazec č.17.runtimeconfig.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003e - obrazec č.17\bin\Debug\net8.0\003e - obrazec č.17.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003e - obrazec č.17\bin\Debug\net8.0\003e - obrazec č.17.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003e - obrazec č.17\obj\Debug\net8.0\003e - obrazec č.17.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003e - obrazec č.17\obj\Debug\net8.0\003e - obrazec č.17.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003e - obrazec č.17\obj\Debug\net8.0\003e - obrazec č.17.AssemblyInfo.cs
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003e - obrazec č.17\obj\Debug\net8.0\003e - obrazec č.17.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003e - obrazec č.17\obj\Debug\net8.0\003e - obrazec č.17.sourcelink.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003e - obrazec č.17\obj\Debug\net8.0\003e - obrazec č.17.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003e - obrazec č.17\obj\Debug\net8.0\refint\003e - obrazec č.17.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003e - obrazec č.17\obj\Debug\net8.0\003e - obrazec č.17.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003e - obrazec č.17\obj\Debug\net8.0\003e - obrazec č.17.genruntimeconfig.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\003e - obrazec č.17\obj\Debug\net8.0\ref\003e - obrazec č.17.dll
