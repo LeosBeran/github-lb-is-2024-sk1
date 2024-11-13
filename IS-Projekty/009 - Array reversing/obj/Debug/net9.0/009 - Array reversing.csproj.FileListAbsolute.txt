@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\009 - Array reversing\bin\Debug\net9.0\009 - Array reversing.exe
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\009 - Array reversing\bin\Debug\net9.0\009 - Array reversing.deps.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\009 - Array reversing\bin\Debug\net9.0\009 - Array reversing.runtimeconfig.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\009 - Array reversing\bin\Debug\net9.0\009 - Array reversing.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\009 - Array reversing\bin\Debug\net9.0\009 - Array reversing.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\009 - Array reversing\obj\Debug\net9.0\009 - Array reversing.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\009 - Array reversing\obj\Debug\net9.0\009 - Array reversing.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\009 - Array reversing\obj\Debug\net9.0\009 - Array reversing.AssemblyInfo.cs
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\009 - Array reversing\obj\Debug\net9.0\009 - Array reversing.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\009 - Array reversing\obj\Debug\net9.0\009 - Array reversing.sourcelink.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\009 - Array reversing\obj\Debug\net9.0\009 - Array reversing.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\009 - Array reversing\obj\Debug\net9.0\refint\009 - Array reversing.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\009 - Array reversing\obj\Debug\net9.0\009 - Array reversing.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\009 - Array reversing\obj\Debug\net9.0\009 - Array reversing.genruntimeconfig.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\009 - Array reversing\obj\Debug\net9.0\ref\009 - Array reversing.dll
