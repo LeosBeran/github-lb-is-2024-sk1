@@ -79,7 +79,7 @@ string again = "a";
             Console.WriteLine("\n\n\nPočet kladných čísel: {0}", kladna);    
             Console.WriteLine("Počet záporných čísel: {0}", zaporna);    
             Console.WriteLine("Počet nul: {0}", nuly);    
-            Console.WriteLine("\n\nPočet sudých čísel: {0}", suda);    
+            Console.WriteLine("\bblenPočet sudých čísel: {0}", suda);    
             Console.WriteLine("\n\nPočet lichých čísel: {0}", licha);    
             Console.WriteLine();
             Console.WriteLine("Pro opakování programu stiskněte klávesu A");

@@ -1,8 +1,33 @@
 {
   "version": 2,
-  "dgSpecHash": "/KsJkvDghBc=",
-  "success": true,
+  "dgSpecHash": "GN6IkJ9q2kY=",
+  "success": false,
   "projectFilePath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.WindowsDesktop.App.Ref' from remote source 'https://api.nuget.org/v3-flatcontainer/microsoft.windowsdesktop.app.ref/index.json'.\r\n  Není znám žádný takový hostitel. (api.nuget.org:443)\r\n  Není znám žádný takový hostitel.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.NETCore.App.Ref' from remote source 'https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.ref/index.json'.\r\n  Není znám žádný takový hostitel. (api.nuget.org:443)\r\n  Není znám žádný takový hostitel.",
+      "libraryId": "Microsoft.NETCore.App.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.NETCore.App.Host.win-x64' from remote source 'https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.host.win-x64/index.json'.\r\n  Není znám žádný takový hostitel. (api.nuget.org:443)\r\n  Není znám žádný takový hostitel.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.AspNetCore.App.Ref' from remote source 'https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.app.ref/index.json'.\r\n  Není znám žádný takový hostitel. (api.nuget.org:443)\r\n  Není znám žádný takový hostitel.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref"
+    }
+  ]
 }

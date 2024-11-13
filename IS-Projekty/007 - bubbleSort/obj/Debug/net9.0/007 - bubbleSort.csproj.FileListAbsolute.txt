@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\007 - bubbleSort\bin\Debug\net9.0\007 - bubbleSort.exe
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\007 - bubbleSort\bin\Debug\net9.0\007 - bubbleSort.deps.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\007 - bubbleSort\bin\Debug\net9.0\007 - bubbleSort.runtimeconfig.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\007 - bubbleSort\bin\Debug\net9.0\007 - bubbleSort.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\007 - bubbleSort\bin\Debug\net9.0\007 - bubbleSort.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\007 - bubbleSort\obj\Debug\net9.0\007 - bubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\007 - bubbleSort\obj\Debug\net9.0\007 - bubbleSort.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\007 - bubbleSort\obj\Debug\net9.0\007 - bubbleSort.AssemblyInfo.cs
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\007 - bubbleSort\obj\Debug\net9.0\007 - bubbleSort.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\007 - bubbleSort\obj\Debug\net9.0\007 - bubbleSort.sourcelink.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\007 - bubbleSort\obj\Debug\net9.0\007 - bubbleSort.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\007 - bubbleSort\obj\Debug\net9.0\refint\007 - bubbleSort.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\007 - bubbleSort\obj\Debug\net9.0\007 - bubbleSort.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\007 - bubbleSort\obj\Debug\net9.0\007 - bubbleSort.genruntimeconfig.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\007 - bubbleSort\obj\Debug\net9.0\ref\007 - bubbleSort.dll
