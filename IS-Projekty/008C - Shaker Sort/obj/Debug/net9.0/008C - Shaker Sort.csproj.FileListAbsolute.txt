@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008C - Shaker Sort\bin\Debug\net9.0\008C - Shaker Sort.exe
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008C - Shaker Sort\bin\Debug\net9.0\008C - Shaker Sort.deps.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008C - Shaker Sort\bin\Debug\net9.0\008C - Shaker Sort.runtimeconfig.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008C - Shaker Sort\bin\Debug\net9.0\008C - Shaker Sort.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008C - Shaker Sort\bin\Debug\net9.0\008C - Shaker Sort.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008C - Shaker Sort\obj\Debug\net9.0\008C - Shaker Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008C - Shaker Sort\obj\Debug\net9.0\008C - Shaker Sort.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008C - Shaker Sort\obj\Debug\net9.0\008C - Shaker Sort.AssemblyInfo.cs
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008C - Shaker Sort\obj\Debug\net9.0\008C - Shaker Sort.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008C - Shaker Sort\obj\Debug\net9.0\008C - Shaker Sort.sourcelink.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008C - Shaker Sort\obj\Debug\net9.0\008C - Shaker Sort.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008C - Shaker Sort\obj\Debug\net9.0\refint\008C - Shaker Sort.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008C - Shaker Sort\obj\Debug\net9.0\008C - Shaker Sort.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008C - Shaker Sort\obj\Debug\net9.0\008C - Shaker Sort.genruntimeconfig.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008C - Shaker Sort\obj\Debug\net9.0\ref\008C - Shaker Sort.dll
