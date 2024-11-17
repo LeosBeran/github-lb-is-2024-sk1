@@ -1,33 +1,13 @@
 {
   "version": 2,
   "dgSpecHash": "GN6IkJ9q2kY=",
-  "success": false,
+  "success": true,
   "projectFilePath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\001-prvni-program-vypis-rady\\001-prvni-program-vypis-rady.csproj",
-  "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "Failed to retrieve information about 'Microsoft.WindowsDesktop.App.Ref' from remote source 'https://api.nuget.org/v3-flatcontainer/microsoft.windowsdesktop.app.ref/index.json'.\r\n  Není znám žádný takový hostitel. (api.nuget.org:443)\r\n  Není znám žádný takový hostitel.",
-      "libraryId": "Microsoft.WindowsDesktop.App.Ref"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "Failed to retrieve information about 'Microsoft.NETCore.App.Ref' from remote source 'https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.ref/index.json'.\r\n  Není znám žádný takový hostitel. (api.nuget.org:443)\r\n  Není znám žádný takový hostitel.",
-      "libraryId": "Microsoft.NETCore.App.Ref"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "Failed to retrieve information about 'Microsoft.NETCore.App.Host.win-x64' from remote source 'https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.host.win-x64/index.json'.\r\n  Není znám žádný takový hostitel. (api.nuget.org:443)\r\n  Není znám žádný takový hostitel.",
-      "libraryId": "Microsoft.NETCore.App.Host.win-x64"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "Failed to retrieve information about 'Microsoft.AspNetCore.App.Ref' from remote source 'https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.app.ref/index.json'.\r\n  Není znám žádný takový hostitel. (api.nuget.org:443)\r\n  Není znám žádný takový hostitel.",
-      "libraryId": "Microsoft.AspNetCore.App.Ref"
-    }
-  ]
+  "expectedPackageFiles": [
+    "C:\\Users\\ZŠ Beranová\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\ZŠ Beranová\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\ZŠ Beranová\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\ZŠ Beranová\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.11\\microsoft.netcore.app.host.win-x64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
 }
