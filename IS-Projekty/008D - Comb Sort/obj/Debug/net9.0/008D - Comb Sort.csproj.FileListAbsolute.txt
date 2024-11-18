@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008D - Comb Sort\bin\Debug\net9.0\008D - Comb Sort.exe
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008D - Comb Sort\bin\Debug\net9.0\008D - Comb Sort.deps.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008D - Comb Sort\bin\Debug\net9.0\008D - Comb Sort.runtimeconfig.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008D - Comb Sort\bin\Debug\net9.0\008D - Comb Sort.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008D - Comb Sort\bin\Debug\net9.0\008D - Comb Sort.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008D - Comb Sort\obj\Debug\net9.0\008D - Comb Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008D - Comb Sort\obj\Debug\net9.0\008D - Comb Sort.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008D - Comb Sort\obj\Debug\net9.0\008D - Comb Sort.AssemblyInfo.cs
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008D - Comb Sort\obj\Debug\net9.0\008D - Comb Sort.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008D - Comb Sort\obj\Debug\net9.0\008D - Comb Sort.sourcelink.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008D - Comb Sort\obj\Debug\net9.0\008D - Comb Sort.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008D - Comb Sort\obj\Debug\net9.0\refint\008D - Comb Sort.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008D - Comb Sort\obj\Debug\net9.0\008D - Comb Sort.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008D - Comb Sort\obj\Debug\net9.0\008D - Comb Sort.genruntimeconfig.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008D - Comb Sort\obj\Debug\net9.0\ref\008D - Comb Sort.dll
