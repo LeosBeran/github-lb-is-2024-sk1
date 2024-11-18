@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008E - Shell Sort\bin\Debug\net9.0\008E - Shell Sort.exe
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008E - Shell Sort\bin\Debug\net9.0\008E - Shell Sort.deps.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008E - Shell Sort\bin\Debug\net9.0\008E - Shell Sort.runtimeconfig.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008E - Shell Sort\bin\Debug\net9.0\008E - Shell Sort.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008E - Shell Sort\bin\Debug\net9.0\008E - Shell Sort.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008E - Shell Sort\obj\Debug\net9.0\008E - Shell Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008E - Shell Sort\obj\Debug\net9.0\008E - Shell Sort.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008E - Shell Sort\obj\Debug\net9.0\008E - Shell Sort.AssemblyInfo.cs
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008E - Shell Sort\obj\Debug\net9.0\008E - Shell Sort.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008E - Shell Sort\obj\Debug\net9.0\008E - Shell Sort.sourcelink.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008E - Shell Sort\obj\Debug\net9.0\008E - Shell Sort.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008E - Shell Sort\obj\Debug\net9.0\refint\008E - Shell Sort.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008E - Shell Sort\obj\Debug\net9.0\008E - Shell Sort.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008E - Shell Sort\obj\Debug\net9.0\008E - Shell Sort.genruntimeconfig.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\008E - Shell Sort\obj\Debug\net9.0\ref\008E - Shell Sort.dll
