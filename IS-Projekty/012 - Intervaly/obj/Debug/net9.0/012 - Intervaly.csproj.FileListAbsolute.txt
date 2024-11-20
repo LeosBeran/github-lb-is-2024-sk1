@@ -1,0 +1,5 @@
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\012 - Intervaly\obj\Debug\net9.0\012 - Intervaly.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\012 - Intervaly\obj\Debug\net9.0\012 - Intervaly.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\012 - Intervaly\obj\Debug\net9.0\012 - Intervaly.AssemblyInfo.cs
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\012 - Intervaly\obj\Debug\net9.0\012 - Intervaly.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\012 - Intervaly\obj\Debug\net9.0\012 - Intervaly.sourcelink.json
