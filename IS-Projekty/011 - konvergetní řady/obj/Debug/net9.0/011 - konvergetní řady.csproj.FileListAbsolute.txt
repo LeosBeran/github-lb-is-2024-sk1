@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011 - konvergetní řady\bin\Debug\net9.0\011 - konvergetní řady.exe
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011 - konvergetní řady\bin\Debug\net9.0\011 - konvergetní řady.deps.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011 - konvergetní řady\bin\Debug\net9.0\011 - konvergetní řady.runtimeconfig.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011 - konvergetní řady\bin\Debug\net9.0\011 - konvergetní řady.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011 - konvergetní řady\bin\Debug\net9.0\011 - konvergetní řady.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011 - konvergetní řady\obj\Debug\net9.0\011 - konvergetní řady.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011 - konvergetní řady\obj\Debug\net9.0\011 - konvergetní řady.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011 - konvergetní řady\obj\Debug\net9.0\011 - konvergetní řady.AssemblyInfo.cs
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011 - konvergetní řady\obj\Debug\net9.0\011 - konvergetní řady.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011 - konvergetní řady\obj\Debug\net9.0\011 - konvergetní řady.sourcelink.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011 - konvergetní řady\obj\Debug\net9.0\011 - konvergetní řady.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011 - konvergetní řady\obj\Debug\net9.0\refint\011 - konvergetní řady.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011 - konvergetní řady\obj\Debug\net9.0\011 - konvergetní řady.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011 - konvergetní řady\obj\Debug\net9.0\011 - konvergetní řady.genruntimeconfig.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011 - konvergetní řady\obj\Debug\net9.0\ref\011 - konvergetní řady.dll
