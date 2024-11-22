@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\012B-Intervaly zadané uživatelem\bin\Debug\net9.0\012B-Intervaly zadané uživatelem.exe
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\012B-Intervaly zadané uživatelem\bin\Debug\net9.0\012B-Intervaly zadané uživatelem.deps.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\012B-Intervaly zadané uživatelem\bin\Debug\net9.0\012B-Intervaly zadané uživatelem.runtimeconfig.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\012B-Intervaly zadané uživatelem\bin\Debug\net9.0\012B-Intervaly zadané uživatelem.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\012B-Intervaly zadané uživatelem\bin\Debug\net9.0\012B-Intervaly zadané uživatelem.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\012B-Intervaly zadané uživatelem\obj\Debug\net9.0\012B-Intervaly zadané uživatelem.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\012B-Intervaly zadané uživatelem\obj\Debug\net9.0\012B-Intervaly zadané uživatelem.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\012B-Intervaly zadané uživatelem\obj\Debug\net9.0\012B-Intervaly zadané uživatelem.AssemblyInfo.cs
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\012B-Intervaly zadané uživatelem\obj\Debug\net9.0\012B-Intervaly zadané uživatelem.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\012B-Intervaly zadané uživatelem\obj\Debug\net9.0\012B-Intervaly zadané uživatelem.sourcelink.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\012B-Intervaly zadané uživatelem\obj\Debug\net9.0\012B-Intervaly zadané uživatelem.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\012B-Intervaly zadané uživatelem\obj\Debug\net9.0\refint\012B-Intervaly zadané uživatelem.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\012B-Intervaly zadané uživatelem\obj\Debug\net9.0\012B-Intervaly zadané uživatelem.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\012B-Intervaly zadané uživatelem\obj\Debug\net9.0\012B-Intervaly zadané uživatelem.genruntimeconfig.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\012B-Intervaly zadané uživatelem\obj\Debug\net9.0\ref\012B-Intervaly zadané uživatelem.dll

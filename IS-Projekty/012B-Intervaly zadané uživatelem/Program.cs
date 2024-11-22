@@ -45,34 +45,36 @@ while(!int.TryParse(Console.ReadLine(), out intervalPocet)){
 
     int [] pocetciselvIntervalech = new int [intervalPocet];
     double velikostIntervalu = (double)(hm-dm)/intervalPocet;
-    
-    int int1=0;
-    int int2=0;
-    int int3=0;
-    int int4=0;
+   
 
     Console.WriteLine("\n\nVygenerovaná čísla: ");
         for(int i=0; i<n; i++) {
             myArray[i] = randomNumber.Next(dm, hm+1);
             Console.Write("{0}, ", myArray[i]);
         
+            for(int j=0; j<intervalPocet; j++){
+                double dolnihranice = dm + j * velikostIntervalu;
+                double hornihranice = dm + (j + 1) * velikostIntervalu;
 
-    if(myArray[i]<= (0.25 * hm)) {
-        int1++;
-    }
-    else if(myArray[i] <= (0.5 * hm)){
-        int2++;
-    }
-    else if(myArray[i] <= (0.75 * hm)){
-        int3++;
-    }
-    else 
-        int4++;
+                if(myArray[i] >= dolnihranice && myArray[i] < hornihranice){
+                    pocetciselvIntervalech[j]++;
+                    break;
+                }
+
+                if (j == intervalPocet - 1 && myArray[i] == hm){
+
+                pocetciselvIntervalech[j]++;
+                 }
+            }
         }
-Console.WriteLine("\nInterval <{0}, {1}>: {2}", dm, 0.25 * hm, int1);
-Console.WriteLine("Interval <{0}, {1}>: {2}", 0.25 * hm + 1, 0.5 * hm, int2);
-Console.WriteLine("Interval <{0}, {1}>: {2}", 0.5 * hm + 1, 0.75 * hm, int3);
-Console.WriteLine("Interval <{0}, {1}>: {2}", 0.75 * hm + 1, hm, int4);
+    Console.WriteLine("\n");
+        Console.WriteLine("Intervaly a počty hodnot:");
+        for (int j = 0; j < intervalPocet; j++)
+        {
+            double dolniHranice = dm + j * velikostIntervalu;
+            double horniHranice = dm + (j + 1) * velikostIntervalu;
+            Console.WriteLine("Interval <{0:F2}, {1:F2}>: {2}", dolniHranice, horniHranice, pocetciselvIntervalech[j]);
+    }
                     Console.WriteLine("Pro opakování programu stiskněte klávesu A");
 
 again = Console.ReadLine();
