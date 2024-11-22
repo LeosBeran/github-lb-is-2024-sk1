@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\013 - aritmetická posloupnost\bin\Debug\net9.0\013 - aritmetická posloupnost.exe
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\013 - aritmetická posloupnost\bin\Debug\net9.0\013 - aritmetická posloupnost.deps.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\013 - aritmetická posloupnost\bin\Debug\net9.0\013 - aritmetická posloupnost.runtimeconfig.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\013 - aritmetická posloupnost\bin\Debug\net9.0\013 - aritmetická posloupnost.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\013 - aritmetická posloupnost\bin\Debug\net9.0\013 - aritmetická posloupnost.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\013 - aritmetická posloupnost\obj\Debug\net9.0\013 - aritmetická posloupnost.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\013 - aritmetická posloupnost\obj\Debug\net9.0\013 - aritmetická posloupnost.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\013 - aritmetická posloupnost\obj\Debug\net9.0\013 - aritmetická posloupnost.AssemblyInfo.cs
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\013 - aritmetická posloupnost\obj\Debug\net9.0\013 - aritmetická posloupnost.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\013 - aritmetická posloupnost\obj\Debug\net9.0\013 - aritmetická posloupnost.sourcelink.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\013 - aritmetická posloupnost\obj\Debug\net9.0\013 - aritmetická posloupnost.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\013 - aritmetická posloupnost\obj\Debug\net9.0\refint\013 - aritmetická posloupnost.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\013 - aritmetická posloupnost\obj\Debug\net9.0\013 - aritmetická posloupnost.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\013 - aritmetická posloupnost\obj\Debug\net9.0\013 - aritmetická posloupnost.genruntimeconfig.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\013 - aritmetická posloupnost\obj\Debug\net9.0\ref\013 - aritmetická posloupnost.dll
