@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011B-Eulerovo číslo\bin\Debug\net9.0\011B-Eulerovo číslo.exe
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011B-Eulerovo číslo\bin\Debug\net9.0\011B-Eulerovo číslo.deps.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011B-Eulerovo číslo\bin\Debug\net9.0\011B-Eulerovo číslo.runtimeconfig.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011B-Eulerovo číslo\bin\Debug\net9.0\011B-Eulerovo číslo.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011B-Eulerovo číslo\bin\Debug\net9.0\011B-Eulerovo číslo.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011B-Eulerovo číslo\obj\Debug\net9.0\011B-Eulerovo číslo.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011B-Eulerovo číslo\obj\Debug\net9.0\011B-Eulerovo číslo.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011B-Eulerovo číslo\obj\Debug\net9.0\011B-Eulerovo číslo.AssemblyInfo.cs
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011B-Eulerovo číslo\obj\Debug\net9.0\011B-Eulerovo číslo.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011B-Eulerovo číslo\obj\Debug\net9.0\011B-Eulerovo číslo.sourcelink.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011B-Eulerovo číslo\obj\Debug\net9.0\011B-Eulerovo číslo.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011B-Eulerovo číslo\obj\Debug\net9.0\refint\011B-Eulerovo číslo.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011B-Eulerovo číslo\obj\Debug\net9.0\011B-Eulerovo číslo.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011B-Eulerovo číslo\obj\Debug\net9.0\011B-Eulerovo číslo.genruntimeconfig.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\011B-Eulerovo číslo\obj\Debug\net9.0\ref\011B-Eulerovo číslo.dll
