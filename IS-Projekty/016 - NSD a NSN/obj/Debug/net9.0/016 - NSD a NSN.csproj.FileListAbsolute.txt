@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\016 - NSD a NSN\bin\Debug\net9.0\016 - NSD a NSN.exe
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\016 - NSD a NSN\bin\Debug\net9.0\016 - NSD a NSN.deps.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\016 - NSD a NSN\bin\Debug\net9.0\016 - NSD a NSN.runtimeconfig.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\016 - NSD a NSN\bin\Debug\net9.0\016 - NSD a NSN.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\016 - NSD a NSN\bin\Debug\net9.0\016 - NSD a NSN.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\016 - NSD a NSN\obj\Debug\net9.0\016 - NSD a NSN.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\016 - NSD a NSN\obj\Debug\net9.0\016 - NSD a NSN.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\016 - NSD a NSN\obj\Debug\net9.0\016 - NSD a NSN.AssemblyInfo.cs
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\016 - NSD a NSN\obj\Debug\net9.0\016 - NSD a NSN.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\016 - NSD a NSN\obj\Debug\net9.0\016 - NSD a NSN.sourcelink.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\016 - NSD a NSN\obj\Debug\net9.0\016 - NSD a NSN.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\016 - NSD a NSN\obj\Debug\net9.0\refint\016 - NSD a NSN.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\016 - NSD a NSN\obj\Debug\net9.0\016 - NSD a NSN.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\016 - NSD a NSN\obj\Debug\net9.0\016 - NSD a NSN.genruntimeconfig.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\016 - NSD a NSN\obj\Debug\net9.0\ref\016 - NSD a NSN.dll

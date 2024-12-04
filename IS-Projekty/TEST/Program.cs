@@ -44,6 +44,72 @@ while(!int.TryParse(Console.ReadLine(), out hm)){
             Console.Write("{0}, ", myArray[i]);
         }
 
+            int max = myArray.Max();
+            int min = myArray.Min();
+            List<int> poziceMax = new List<int>();
+            List<int> poziceMin = new List<int>();
+            int indexPoleMax = 0;
+            for(int i = 1; i < n; i++) {
+                if(myArray[i] == max) {
+                poziceMax.Add(i);
+                                }
+                
+            }
+            int [] ConvertList = poziceMax.ToArray();
+            Console.WriteLine("\n\nPozice max:");
+            for(int i=0; i < ConvertList.Length; i++){
+            Console.Write("{0}, ", ConvertList[i]);
+            }
+
+            for(int i = 1; i < n; i++) {
+                if(myArray[i] == min) {
+                poziceMin.Add(i);
+                                }
+            }
+            int [] MinArray = poziceMin.ToArray();
+            Console.WriteLine("\n\nPozice min:");
+            for(int i=0; i < MinArray.Length; i++){
+            Console.Write("{0}, ", MinArray[i]);
+            }
+            
+                for(int i =0; i < n-1; i++) {
+                
+                for(int j = 0; j < n-i-1; j++) {
+                    if(myArray[j] < myArray[j+1]) {
+                        int tmp = myArray[j+1];
+                        myArray[j+1] = myArray[j];
+                        myArray[j] = tmp;
+                    }
+                }
+            }
+            Console.WriteLine("\n\n\nSeřazené pole");
+                for(int i=0; i<n; i++) {
+                Console.Write("{0}; ", myArray[i]); 
+            }
+
+            int [] cleanedArray = myArray.Distinct().ToArray();
+            Console.WriteLine("\n\n\nSeřazené pole");
+                for(int i=0; i<cleanedArray.Length; i++) {
+                Console.Write("{0}; ", cleanedArray[i]); 
+            }
+
+            Console.WriteLine("\n\nPrvní: {0}", cleanedArray[0]);
+            Console.WriteLine("Třetí: {0}", cleanedArray[2]);
+
+            double median;
+                if (n%2==0){
+                    int middle1 = myArray[n/2];
+                    int middle2 = myArray[(n/2) - 1];
+                    median = (middle1 + middle2)/2;
+                    Console.WriteLine("\n\nMedián: {0}", median);
+                        } else{
+                            median = myArray[n/2];
+                            Console.WriteLine("\n\nMedián: {0}", median);
+                        }
+                    
+                    string Binary = Convert.ToString(cleanedArray[2], 2);
+                            Console.WriteLine("\n\nPřevedeno do binární soustavy: {0}", Binary);
+
                     Console.WriteLine("Pro opakování programu stiskněte klávesu A");
 
 again = Console.ReadLine();
