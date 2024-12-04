@@ -1,0 +1,15 @@
+C:\github-lb-is-2024-sk1\IS-Projekty\015-souhrn\bin\Debug\net9.0\015-souhrn.exe
+C:\github-lb-is-2024-sk1\IS-Projekty\015-souhrn\bin\Debug\net9.0\015-souhrn.deps.json
+C:\github-lb-is-2024-sk1\IS-Projekty\015-souhrn\bin\Debug\net9.0\015-souhrn.runtimeconfig.json
+C:\github-lb-is-2024-sk1\IS-Projekty\015-souhrn\bin\Debug\net9.0\015-souhrn.dll
+C:\github-lb-is-2024-sk1\IS-Projekty\015-souhrn\bin\Debug\net9.0\015-souhrn.pdb
+C:\github-lb-is-2024-sk1\IS-Projekty\015-souhrn\obj\Debug\net9.0\015-souhrn.GeneratedMSBuildEditorConfig.editorconfig
+C:\github-lb-is-2024-sk1\IS-Projekty\015-souhrn\obj\Debug\net9.0\015-souhrn.AssemblyInfoInputs.cache
+C:\github-lb-is-2024-sk1\IS-Projekty\015-souhrn\obj\Debug\net9.0\015-souhrn.AssemblyInfo.cs
+C:\github-lb-is-2024-sk1\IS-Projekty\015-souhrn\obj\Debug\net9.0\015-souhrn.csproj.CoreCompileInputs.cache
+C:\github-lb-is-2024-sk1\IS-Projekty\015-souhrn\obj\Debug\net9.0\015-souhrn.sourcelink.json
+C:\github-lb-is-2024-sk1\IS-Projekty\015-souhrn\obj\Debug\net9.0\015-souhrn.dll
+C:\github-lb-is-2024-sk1\IS-Projekty\015-souhrn\obj\Debug\net9.0\refint\015-souhrn.dll
+C:\github-lb-is-2024-sk1\IS-Projekty\015-souhrn\obj\Debug\net9.0\015-souhrn.pdb
+C:\github-lb-is-2024-sk1\IS-Projekty\015-souhrn\obj\Debug\net9.0\015-souhrn.genruntimeconfig.cache
+C:\github-lb-is-2024-sk1\IS-Projekty\015-souhrn\obj\Debug\net9.0\ref\015-souhrn.dll

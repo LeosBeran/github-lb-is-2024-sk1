@@ -1,4 +1,4 @@
-﻿﻿using System.Security.Authentication.ExtendedProtection;
+﻿using System.Security.Authentication.ExtendedProtection;
 
 string again = "a";
         
@@ -41,40 +41,6 @@ string again = "a";
 
             Random randomNumber = new Random();
 
-            int kladna = 0;
-            int zaporna = 0;
-            int nuly = 0;
-            int suda = 0;
-            int licha = 0;
-
-            Console.WriteLine("\n\nNáhodná čísla:");
-            for(int i=0; i<n; i++) {
-                myArray[i] = randomNumber.Next(dm, hm+1);
-                Console.Write("{0}; ", myArray[i]); 
-
-                // if(myArray[i]>0)
-                //     kladna++;
-                // if(myArray[i]<0)
-                //     zaporna++;
-                // if(myArray[i]==0)
-                //     nuly++;
-
-                // kladná, záporná, nuly
-                if(myArray[i]>0)
-                    kladna++;
-                else if(myArray[i]<0)
-                    zaporna++;
-                else
-                    nuly++;
-
-                // sudá, lichá
-                if(myArray[i] % 2 == 0)
-                    suda++;
-                else
-                    licha++;        
-
-            }
-
             int max = myArray[0];
             int min = myArray[0];
             int poziceMax = 0;
@@ -97,11 +63,6 @@ string again = "a";
 
             
             Console.WriteLine();
-            Console.WriteLine("\n\n\nPočet kladných čísel: {0}", kladna);    
-            Console.WriteLine("Počet záporných čísel: {0}", zaporna);    
-            Console.WriteLine("Počet nul: {0}", nuly);    
-            Console.WriteLine("\n\nPočet sudých čísel: {0}", suda);    
-            Console.WriteLine("\n\nPočet lichých čísel: {0}", licha); 
             Console.WriteLine("\n\nMaximum = {0}; jeho první pozice v poli = {1}", max, poziceMax);   
             Console.WriteLine("Minimum = {0}; jeho první pozice v poli = {1}", min, poziceMin);   
             Console.WriteLine();
