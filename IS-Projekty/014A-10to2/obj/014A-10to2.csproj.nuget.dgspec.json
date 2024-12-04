@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\github-lb-is-2024-sk1\\IS-Projekty\\014A-10to2\\014A-10to2.csproj": {}
+    "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\014A-10to2\\014A-10to2.csproj": {}
   },
   "projects": {
-    "C:\\github-lb-is-2024-sk1\\IS-Projekty\\014A-10to2\\014A-10to2.csproj": {
+    "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\014A-10to2\\014A-10to2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\github-lb-is-2024-sk1\\IS-Projekty\\014A-10to2\\014A-10to2.csproj",
+        "projectUniqueName": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\014A-10to2\\014A-10to2.csproj",
         "projectName": "014A-10to2",
-        "projectPath": "C:\\github-lb-is-2024-sk1\\IS-Projekty\\014A-10to2\\014A-10to2.csproj",
-        "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
-        "outputPath": "C:\\github-lb-is-2024-sk1\\IS-Projekty\\014A-10to2\\obj\\",
+        "projectPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\014A-10to2\\014A-10to2.csproj",
+        "packagesPath": "C:\\Users\\ZŠ Beranová\\.nuget\\packages\\",
+        "outputPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\014A-10to2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ZŠ Beranová\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -32,7 +32,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net7.0": {
@@ -48,12 +54,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

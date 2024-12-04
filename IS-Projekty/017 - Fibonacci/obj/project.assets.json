@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net9.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net9.0": []
   },
   "packageFolders": {
     "C:\\Users\\ZŠ Beranová\\.nuget\\packages\\": {}
@@ -13,24 +13,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\014A-10to2\\014A-10to2.csproj",
-      "projectName": "014A-10to2",
-      "projectPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\014A-10to2\\014A-10to2.csproj",
+      "projectUniqueName": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\017 - Fibonacci\\017 - Fibonacci.csproj",
+      "projectName": "017 - Fibonacci",
+      "projectPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\017 - Fibonacci\\017 - Fibonacci.csproj",
       "packagesPath": "C:\\Users\\ZŠ Beranová\\.nuget\\packages\\",
-      "outputPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\014A-10to2\\obj\\",
+      "outputPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\017 - Fibonacci\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ZŠ Beranová\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net9.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "projectReferences": {}
         }
       },
@@ -47,8 +47,8 @@
       "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net9.0": {
+        "targetAlias": "net9.0",
         "imports": [
           "net461",
           "net462",
@@ -60,30 +60,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.20, 7.0.20]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[7.0.20, 7.0.20]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.20, 7.0.20]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.20, 7.0.20]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
