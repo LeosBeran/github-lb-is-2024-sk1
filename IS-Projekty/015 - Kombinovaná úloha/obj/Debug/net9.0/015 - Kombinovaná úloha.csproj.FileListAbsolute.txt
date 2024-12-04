@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\015 - Kombinovaná úloha\bin\Debug\net9.0\015 - Kombinovaná úloha.exe
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\015 - Kombinovaná úloha\bin\Debug\net9.0\015 - Kombinovaná úloha.deps.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\015 - Kombinovaná úloha\bin\Debug\net9.0\015 - Kombinovaná úloha.runtimeconfig.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\015 - Kombinovaná úloha\bin\Debug\net9.0\015 - Kombinovaná úloha.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\015 - Kombinovaná úloha\bin\Debug\net9.0\015 - Kombinovaná úloha.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\015 - Kombinovaná úloha\obj\Debug\net9.0\015 - Kombinovaná úloha.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\015 - Kombinovaná úloha\obj\Debug\net9.0\015 - Kombinovaná úloha.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\015 - Kombinovaná úloha\obj\Debug\net9.0\015 - Kombinovaná úloha.AssemblyInfo.cs
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\015 - Kombinovaná úloha\obj\Debug\net9.0\015 - Kombinovaná úloha.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\015 - Kombinovaná úloha\obj\Debug\net9.0\015 - Kombinovaná úloha.sourcelink.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\015 - Kombinovaná úloha\obj\Debug\net9.0\015 - Kombinovaná úloha.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\015 - Kombinovaná úloha\obj\Debug\net9.0\refint\015 - Kombinovaná úloha.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\015 - Kombinovaná úloha\obj\Debug\net9.0\015 - Kombinovaná úloha.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\015 - Kombinovaná úloha\obj\Debug\net9.0\015 - Kombinovaná úloha.genruntimeconfig.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\015 - Kombinovaná úloha\obj\Debug\net9.0\ref\015 - Kombinovaná úloha.dll
