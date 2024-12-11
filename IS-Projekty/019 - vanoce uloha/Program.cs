@@ -139,7 +139,9 @@ string again = "a";
             Console.WriteLine("\n\nAritmetický průměr (celá část): {0}", prumer);
             Console.WriteLine("Zbytek při dělení součtu čísel počtem čísel: {0}", zbytek);
 
-
+            int width = zbytek;
+                        for(int i = 1; i <= width; i++) {
+                        }
 
             Console.WriteLine();
             Console.WriteLine("\n\nPro opakování programu stiskněte klávesu A");
