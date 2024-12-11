@@ -1,0 +1,15 @@
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\017 - Fibonacci iterativně\bin\Debug\net9.0\017 - Fibonacci.exe
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\017 - Fibonacci iterativně\bin\Debug\net9.0\017 - Fibonacci.deps.json
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\017 - Fibonacci iterativně\bin\Debug\net9.0\017 - Fibonacci.runtimeconfig.json
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\017 - Fibonacci iterativně\bin\Debug\net9.0\017 - Fibonacci.dll
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\017 - Fibonacci iterativně\bin\Debug\net9.0\017 - Fibonacci.pdb
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\017 - Fibonacci iterativně\obj\Debug\net9.0\017 - Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\017 - Fibonacci iterativně\obj\Debug\net9.0\017 - Fibonacci.AssemblyInfoInputs.cache
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\017 - Fibonacci iterativně\obj\Debug\net9.0\017 - Fibonacci.AssemblyInfo.cs
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\017 - Fibonacci iterativně\obj\Debug\net9.0\017 - Fibonacci.csproj.CoreCompileInputs.cache
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\017 - Fibonacci iterativně\obj\Debug\net9.0\017 - Fibonacci.sourcelink.json
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\017 - Fibonacci iterativně\obj\Debug\net9.0\017 - Fibonacci.dll
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\017 - Fibonacci iterativně\obj\Debug\net9.0\refint\017 - Fibonacci.dll
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\017 - Fibonacci iterativně\obj\Debug\net9.0\017 - Fibonacci.pdb
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\017 - Fibonacci iterativně\obj\Debug\net9.0\017 - Fibonacci.genruntimeconfig.cache
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\017 - Fibonacci iterativně\obj\Debug\net9.0\ref\017 - Fibonacci.dll
