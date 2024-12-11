@@ -19,7 +19,7 @@ static void razitko() {
     Console.WriteLine("*************************");
     Console.WriteLine("******* NSD a NSN *******");
     Console.WriteLine("*************************");
-    Console.WriteLine("****** Tomáš Žižka ******");
+    Console.WriteLine("****** Leoš Beran ******");
     Console.WriteLine("*************************\n\n");
     Console.WriteLine();
 }
