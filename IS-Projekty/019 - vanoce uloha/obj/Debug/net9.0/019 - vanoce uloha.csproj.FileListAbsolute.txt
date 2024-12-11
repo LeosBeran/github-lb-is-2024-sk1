@@ -1,0 +1,15 @@
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\019 - vanoce uloha\bin\Debug\net9.0\019 - vanoce uloha.exe
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\019 - vanoce uloha\bin\Debug\net9.0\019 - vanoce uloha.deps.json
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\019 - vanoce uloha\bin\Debug\net9.0\019 - vanoce uloha.runtimeconfig.json
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\019 - vanoce uloha\bin\Debug\net9.0\019 - vanoce uloha.dll
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\019 - vanoce uloha\bin\Debug\net9.0\019 - vanoce uloha.pdb
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\019 - vanoce uloha\obj\Debug\net9.0\019 - vanoce uloha.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\019 - vanoce uloha\obj\Debug\net9.0\019 - vanoce uloha.AssemblyInfoInputs.cache
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\019 - vanoce uloha\obj\Debug\net9.0\019 - vanoce uloha.AssemblyInfo.cs
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\019 - vanoce uloha\obj\Debug\net9.0\019 - vanoce uloha.csproj.CoreCompileInputs.cache
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\019 - vanoce uloha\obj\Debug\net9.0\019 - vanoce uloha.sourcelink.json
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\019 - vanoce uloha\obj\Debug\net9.0\019 - vanoce uloha.dll
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\019 - vanoce uloha\obj\Debug\net9.0\refint\019 - vanoce uloha.dll
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\019 - vanoce uloha\obj\Debug\net9.0\019 - vanoce uloha.pdb
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\019 - vanoce uloha\obj\Debug\net9.0\019 - vanoce uloha.genruntimeconfig.cache
+C:\aaa\github-lb-is-2024-sk1\IS-Projekty\019 - vanoce uloha\obj\Debug\net9.0\ref\019 - vanoce uloha.dll
