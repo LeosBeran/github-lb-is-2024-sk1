@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\018 - 2D pole a hledani cisel\\018 - 2D pole a hledani cisel.csproj": {}
   },
   "projects": {
@@ -16,22 +15,6 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ZŠ Beranová\\AppData\\Roaming\\NuGet\\NuGet.Config"
-=======
-    "C:\\aaa\\github-lb-is-2024-sk1\\IS-Projekty\\018 - 2D pole a hledani cisel\\018 - 2D pole a hledani cisel.csproj": {}
-  },
-  "projects": {
-    "C:\\aaa\\github-lb-is-2024-sk1\\IS-Projekty\\018 - 2D pole a hledani cisel\\018 - 2D pole a hledani cisel.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\aaa\\github-lb-is-2024-sk1\\IS-Projekty\\018 - 2D pole a hledani cisel\\018 - 2D pole a hledani cisel.csproj",
-        "projectName": "018 - 2D pole a hledani cisel",
-        "projectPath": "C:\\aaa\\github-lb-is-2024-sk1\\IS-Projekty\\018 - 2D pole a hledani cisel\\018 - 2D pole a hledani cisel.csproj",
-        "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
-        "outputPath": "C:\\aaa\\github-lb-is-2024-sk1\\IS-Projekty\\018 - 2D pole a hledani cisel\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
->>>>>>> a9f360a36b07471b9a3622f614f1df9ef3070569
         ],
         "originalTargetFrameworks": [
           "net9.0"

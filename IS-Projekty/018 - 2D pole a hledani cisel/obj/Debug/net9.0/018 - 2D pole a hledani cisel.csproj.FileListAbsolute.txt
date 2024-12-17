@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\018 - 2D pole a hledani cisel\bin\Debug\net9.0\018 - 2D pole a hledani cisel.exe
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\018 - 2D pole a hledani cisel\bin\Debug\net9.0\018 - 2D pole a hledani cisel.deps.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\018 - 2D pole a hledani cisel\bin\Debug\net9.0\018 - 2D pole a hledani cisel.runtimeconfig.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\018 - 2D pole a hledani cisel\bin\Debug\net9.0\018 - 2D pole a hledani cisel.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\018 - 2D pole a hledani cisel\bin\Debug\net9.0\018 - 2D pole a hledani cisel.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\018 - 2D pole a hledani cisel\obj\Debug\net9.0\018 - 2D pole a hledani cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\018 - 2D pole a hledani cisel\obj\Debug\net9.0\018 - 2D pole a hledani cisel.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\018 - 2D pole a hledani cisel\obj\Debug\net9.0\018 - 2D pole a hledani cisel.AssemblyInfo.cs
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\018 - 2D pole a hledani cisel\obj\Debug\net9.0\018 - 2D pole a hledani cisel.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\018 - 2D pole a hledani cisel\obj\Debug\net9.0\018 - 2D pole a hledani cisel.sourcelink.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\018 - 2D pole a hledani cisel\obj\Debug\net9.0\018 - 2D pole a hledani cisel.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\018 - 2D pole a hledani cisel\obj\Debug\net9.0\refint\018 - 2D pole a hledani cisel.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\018 - 2D pole a hledani cisel\obj\Debug\net9.0\018 - 2D pole a hledani cisel.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\018 - 2D pole a hledani cisel\obj\Debug\net9.0\018 - 2D pole a hledani cisel.genruntimeconfig.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\018 - 2D pole a hledani cisel\obj\Debug\net9.0\ref\018 - 2D pole a hledani cisel.dll

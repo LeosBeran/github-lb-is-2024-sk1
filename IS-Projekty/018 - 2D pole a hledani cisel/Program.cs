@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-﻿
 ﻿string opakovani = "a";
 
 while(opakovani == "a")
@@ -7,7 +5,7 @@ while(opakovani == "a")
     Console.Clear(); // vymaže obrazovku
     Console.WriteLine("***************************************");
     Console.WriteLine("********* Generátor - 2D pole *********");
-    Console.WriteLine("************ Tomáš Žižka **************");
+    Console.WriteLine("************ Leoš Beran **************");
     Console.WriteLine("***************************************");
 
 
@@ -67,7 +65,3 @@ while(opakovani == "a")
     Console.WriteLine("Stiskem jiné klávesy program ukončíte.");
     opakovani = Console.ReadLine();
 }
-=======
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
->>>>>>> a9f360a36b07471b9a3622f614f1df9ef3070569

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "018 - 2D pole a hledani cisel/1.0.0": {
+        "runtime": {
+          "018 - 2D pole a hledani cisel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "018 - 2D pole a hledani cisel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

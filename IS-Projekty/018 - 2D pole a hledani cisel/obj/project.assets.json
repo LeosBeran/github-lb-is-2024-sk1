@@ -8,16 +8,11 @@
     "net9.0": []
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\ZŠ Beranová\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\Uzivatel\\.nuget\\packages\\": {}
->>>>>>> a9f360a36b07471b9a3622f614f1df9ef3070569
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\018 - 2D pole a hledani cisel\\018 - 2D pole a hledani cisel.csproj",
       "projectName": "018 - 2D pole a hledani cisel",
       "projectPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\018 - 2D pole a hledani cisel\\018 - 2D pole a hledani cisel.csproj",
@@ -26,16 +21,6 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ZŠ Beranová\\AppData\\Roaming\\NuGet\\NuGet.Config"
-=======
-      "projectUniqueName": "C:\\aaa\\github-lb-is-2024-sk1\\IS-Projekty\\018 - 2D pole a hledani cisel\\018 - 2D pole a hledani cisel.csproj",
-      "projectName": "018 - 2D pole a hledani cisel",
-      "projectPath": "C:\\aaa\\github-lb-is-2024-sk1\\IS-Projekty\\018 - 2D pole a hledani cisel\\018 - 2D pole a hledani cisel.csproj",
-      "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
-      "outputPath": "C:\\aaa\\github-lb-is-2024-sk1\\IS-Projekty\\018 - 2D pole a hledani cisel\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
->>>>>>> a9f360a36b07471b9a3622f614f1df9ef3070569
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -83,5 +68,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Při čtení souboru mezipaměti C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\018 - 2D pole a hledani cisel\\obj\\project.nuget.cache došlo k problému: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
