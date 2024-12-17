@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 ﻿string opakovani = "a";
 
@@ -66,3 +67,7 @@ while(opakovani == "a")
     Console.WriteLine("Stiskem jiné klávesy program ukončíte.");
     opakovani = Console.ReadLine();
 }
+=======
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+>>>>>>> a9f360a36b07471b9a3622f614f1df9ef3070569

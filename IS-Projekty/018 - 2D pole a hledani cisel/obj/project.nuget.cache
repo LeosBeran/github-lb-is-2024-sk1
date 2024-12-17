@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "NVWyUeSbyVw=",
   "success": true,
   "projectFilePath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\018 - 2D pole a hledani cisel\\018 - 2D pole a hledani cisel.csproj",
+=======
+  "dgSpecHash": "rgQPzGmIeWY=",
+  "success": true,
+  "projectFilePath": "C:\\aaa\\github-lb-is-2024-sk1\\IS-Projekty\\018 - 2D pole a hledani cisel\\018 - 2D pole a hledani cisel.csproj",
+>>>>>>> a9f360a36b07471b9a3622f614f1df9ef3070569
   "expectedPackageFiles": [],
   "logs": []
 }

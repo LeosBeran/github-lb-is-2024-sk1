@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ZŠ Beranová\\.nuget\\packages\\": {}
+    "C:\\Users\\Uzivatel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\017 - Fibonacci\\017 - Fibonacci.csproj",
-      "projectName": "017 - Fibonacci",
-      "projectPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\017 - Fibonacci\\017 - Fibonacci.csproj",
-      "packagesPath": "C:\\Users\\ZŠ Beranová\\.nuget\\packages\\",
-      "outputPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\017 - Fibonacci\\obj\\",
+      "projectUniqueName": "C:\\aaa\\github-lb-is-2024-sk1\\IS-Projekty\\017b - Fibonacci rekurzivně\\017b - Fibonacci rekurzivně.csproj",
+      "projectName": "017b - Fibonacci rekurzivně",
+      "projectPath": "C:\\aaa\\github-lb-is-2024-sk1\\IS-Projekty\\017b - Fibonacci rekurzivně\\017b - Fibonacci rekurzivně.csproj",
+      "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
+      "outputPath": "C:\\aaa\\github-lb-is-2024-sk1\\IS-Projekty\\017b - Fibonacci rekurzivně\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ZŠ Beranová\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
