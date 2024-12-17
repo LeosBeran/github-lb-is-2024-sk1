@@ -5,7 +5,7 @@ while(again == "a") {
     Console.WriteLine("******************************");
     Console.WriteLine("******* Převod z 10 do 2 soustavy *******");
     Console.WriteLine("******************************");
-    Console.WriteLine("******** Tomáš Žižka *********");
+    Console.WriteLine("******* Leoš Beran *********");
     Console.WriteLine("******************************\n\n");
     Console.WriteLine();
 

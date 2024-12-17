@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\Zápočet\bin\Debug\net9.0\Zápočet.exe
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\Zápočet\bin\Debug\net9.0\Zápočet.deps.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\Zápočet\bin\Debug\net9.0\Zápočet.runtimeconfig.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\Zápočet\bin\Debug\net9.0\Zápočet.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\Zápočet\bin\Debug\net9.0\Zápočet.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\Zápočet\obj\Debug\net9.0\Zápočet.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\Zápočet\obj\Debug\net9.0\Zápočet.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\Zápočet\obj\Debug\net9.0\Zápočet.AssemblyInfo.cs
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\Zápočet\obj\Debug\net9.0\Zápočet.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\Zápočet\obj\Debug\net9.0\Zápočet.sourcelink.json
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\Zápočet\obj\Debug\net9.0\Zápočet.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\Zápočet\obj\Debug\net9.0\refint\Zápočet.dll
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\Zápočet\obj\Debug\net9.0\Zápočet.pdb
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\Zápočet\obj\Debug\net9.0\Zápočet.genruntimeconfig.cache
+C:\aaa\IS-2024\github-lb-is-2024-sk1\IS-Projekty\Zápočet\obj\Debug\net9.0\ref\Zápočet.dll
