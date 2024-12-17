@@ -123,15 +123,14 @@ string again = "a";
             Console.WriteLine("\n\nMaximum = {0}", max);   
             Console.WriteLine("\n\nMinimum = {0}", min);   
 
-               // Ruční výpočet aritmetického průměru
+           
             int sum = 0;
             for (int i = 0; i < n; i++) {
-                sum += myArray[i]; // Sečítáme všechna čísla
+                sum += myArray[i]; 
             }
             
-            // Ručně vypočítáme průměr a zbytek
-            int prumer = sum / n;  // Celá část průměru
-            int zbytek = sum - (prumer * n); // Zbytek (součet - průměr * počet čísel)
+            int prumer = sum / n; 
+            int zbytek = sum - (prumer * n); 
 
             Console.WriteLine("\n\nAritmetický průměr (celá část): {0}", prumer);
             Console.WriteLine("Zbytek při dělení součtu čísel počtem čísel: {0}", zbytek);
@@ -143,8 +142,87 @@ string again = "a";
                         for(int i = 1; i <= width; i++) {
                         }
 
+
+            // Vykreslení vánočního stromečku
+            DrawChristmasTree(prumer);
+
             Console.WriteLine();
             Console.WriteLine("\n\nPro opakování programu stiskněte klávesu A");
             again = Console.ReadLine();
 
+
+
+
+            Console.WriteLine("\n\nPro opakování programu stiskněte klávesu A");
+            again = Console.ReadLine();
         }
+    
+
+    static void CombSort(int[] array)
+    {
+        int gap = array.Length;
+        bool swapped;
+
+        do
+        {
+            gap = (gap * 10) / 13;
+            if (gap < 1) gap = 1;
+
+            swapped = false;
+            for (int i = 0; i + gap < array.Length; i++)
+            {
+                if (array[i] > array[i + gap])
+                {
+                    (array[i], array[i + gap]) = (array[i + gap], array[i]);
+                    swapped = true;
+                }
+            }
+        } while (gap > 1 || swapped);
+    }
+
+    static void InsertionSort(int[] array)
+    {
+        for (int i = 1; i < array.Length; i++)
+        {
+            int current = array[i];
+            int j = i - 1;
+
+            while (j >= 0 && array[j] > current)
+            {
+                array[j + 1] = array[j];
+                j--;
+            }
+            array[j + 1] = current;
+        }
+    }
+
+    static void DrawChristmasTree(int height)
+    {
+        Console.ForegroundColor = ConsoleColor.Green;
+        for (int i = 1; i <= height; i++)
+        {
+            for (int j = 0; j < height - i; j++)
+            {
+                Console.Write(" ");
+            }
+            for (int j = 0; j < 2 * i - 1; j++)
+            {
+                Console.Write("*");
+            }
+            Console.WriteLine();
+        }
+
+        Console.ForegroundColor = ConsoleColor.DarkYellow;
+        for (int i = 0; i < height / 3; i++)
+        {
+            for (int j = 0; j < height - 1; j++)
+            {
+                Console.Write(" ");
+            }
+            Console.WriteLine("|");
+        }
+        Console.ResetColor();
+    }
+
+
+        

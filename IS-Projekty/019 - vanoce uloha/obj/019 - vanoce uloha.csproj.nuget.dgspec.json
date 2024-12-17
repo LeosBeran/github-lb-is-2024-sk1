@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\aaa\\github-lb-is-2024-sk1\\IS-Projekty\\019 - vanoce uloha\\019 - vanoce uloha.csproj": {}
+    "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\019 - vanoce uloha\\019 - vanoce uloha.csproj": {}
   },
   "projects": {
-    "C:\\aaa\\github-lb-is-2024-sk1\\IS-Projekty\\019 - vanoce uloha\\019 - vanoce uloha.csproj": {
+    "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\019 - vanoce uloha\\019 - vanoce uloha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\aaa\\github-lb-is-2024-sk1\\IS-Projekty\\019 - vanoce uloha\\019 - vanoce uloha.csproj",
+        "projectUniqueName": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\019 - vanoce uloha\\019 - vanoce uloha.csproj",
         "projectName": "019 - vanoce uloha",
-        "projectPath": "C:\\aaa\\github-lb-is-2024-sk1\\IS-Projekty\\019 - vanoce uloha\\019 - vanoce uloha.csproj",
-        "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
-        "outputPath": "C:\\aaa\\github-lb-is-2024-sk1\\IS-Projekty\\019 - vanoce uloha\\obj\\",
+        "projectPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\019 - vanoce uloha\\019 - vanoce uloha.csproj",
+        "packagesPath": "C:\\Users\\ZŠ Beranová\\.nuget\\packages\\",
+        "outputPath": "C:\\aaa\\IS-2024\\github-lb-is-2024-sk1\\IS-Projekty\\019 - vanoce uloha\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ZŠ Beranová\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
